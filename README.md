@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Yurix10
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C/C++ (still practicing python)
 - 😄 Pronouns: he/him
