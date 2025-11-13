@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Yurix10
-- 👀 I’m interested in programing
-- 🌱 I’m currently learning C/C++ (still practicing python)
-- 😄 Pronouns: he/him
+I dont know what to write so... welcome, i guess ?
